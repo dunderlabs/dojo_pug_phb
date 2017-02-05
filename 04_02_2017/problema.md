@@ -14,17 +14,21 @@ divisível por 100, exceto se ele for também divisível por 400.
 Exemplos:
 
 São bissextos por exemplo:
+```
     1600
     1732
     1888
     1944
     2008
+```
 
 Não são bissextos por exemplo:
+```
     1742
     1889
     1951
     2011
+```
 
 Escreva uma função que determina se um determinado ano informado é 
 bissexto ou não.
